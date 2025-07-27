@@ -1,13 +1,7 @@
 albatross	Albatrosses have (part) faces.	1.0
-bang bnag	goes the gun	1.0
-bum	bum bum	1.0
 criminologist	Criminologists are workers.	1.0
 distinct structure	Distinct structures serve functions.	1.0
-eating	eat the food	1.0
-hello	a greeting	0.78
 isolated organ	Isolated organs are rich in endothelial cells, vascular smooth muscle and other types of cells.	0.7458134293556213
 melatonin	Melatonin is produced by glands.	1.0
-packer	guy packing	1.0
+packer	packs the packs away	1.0
 posterior molar	Posterior molars erupt at the back of the row and slowly move forward.	0.7185370326042175
-running	Running  car crashs.	1.0
-Term	testing term	0.9
