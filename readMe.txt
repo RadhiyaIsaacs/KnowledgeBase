@@ -1,0 +1,3 @@
+LexiTree
+
+The goal of this project was to develop a program that allows users to load a knowledge base from a text file and perform a variety of operations on it. Two versions of the application were created: the first, KnowledgeBaseGUI.java, utilizes an array to perform operations, while the second, GenericsKBST, employs a Binary Search Tree (BST) for enhanced functionality. Key features of this project include an interactive graphical user interface (GUI) for ease of use, a wide range of operations, and the flexibility to manage knowledge bases efficiently. The project is designed to be user-friendly, offering an intuitive experience for managing and interacting with stored knowledge.
